@@ -32,7 +32,7 @@ section {
     background-size: cover;
     background-position: right;
     border-radius: 80px;
-    max-width: 50%;
+    width: 50%;
     height: 100px;
     padding: 70 px;
     margin: 0 auto;
